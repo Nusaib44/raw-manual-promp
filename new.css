@@ -1,0 +1,146 @@
+/* Custom CSS Styles */
+.hero {
+    background-image: url('media/hero-1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .about {
+    padding: 100px 0;
+  }
+  
+  .services {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+  }
+  
+  .service-card {
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .mid-section {
+    background-image: url('media/blog-post-1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .team {
+    padding: 100px 0;
+  }
+  
+  .team-member {
+    overflow: hidden;
+    margin-bottom: 30px;
+  }
+  
+  .team-member img {
+    transition: transform 0.3s ease;
+  }
+  
+  .team-member img:hover {
+    transform: scale(1.1);
+  }
+  
+  .contact {
+    background-image: url('contact-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .blog {
+    padding: 100px 0;
+  }
+  
+  .blog-post {
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 50px 0;
+  }
+  
+  .social-icons {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-icons li:last-child {
+    margin-right: 0;
+  }
+  
+  .social-icons a {
+    color: #fff;
+    font-size: 20px;
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-links li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-links a {
+    color: #fff;
+  }
+  
+  .separator {
+    width: 100px;
+    height: 3px;
+    background-color: #007bff;
+    margin: 20px auto;
+  }
+  
+  .statistic {
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 50px 0;
+    margin-bottom: 30px;
+  }
+  
+  /* Media Queries */
+  @media (max-width: 767px) {
+    .hero {
+      padding: 50px 0;
+    }
+    .about,
+    .services,
+    .team,
+    .contact,
+    .blog {
+      padding: 80px 0;
+    }
+    .separator {
+      margin: 10px auto;
+    }
+  }
+  

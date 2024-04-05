@@ -1,0 +1,51 @@
+Create a responsive static website using HTML, CSS, and Bootstrap with the following features:
+1. Navigation Bar:
+- Include a sticky navigation bar with a logo and brand name -“ISRO”  and links for Home, About, Services, Team, Contact, and Blog sections.
+- Use Bootstrap's navbar component and add smooth scrolling functionality for navigation links.
+2. Hero Section:
+- Create a full-height hero section with a background image and a centered heading and buttons.
+- Add a fade-up animation for the heading and buttons using AOS (Animate On Scroll) library.
+- ⁠heading-“Welcome to the world of space ”, Button -  “Free Trial”
+3. About Section:
+- Include an About section with a heading, a line separator, and a brief about space activities.
+- Display an image on the left and content with icons and text on the right.
+- Add fade-left and fade-right animations for the image and content, respectively.
+4. Services Section:
+- Create a Services section with a heading, a line separator, and a brief description.
+- Display service cards with icons and descriptions in a responsive grid layout.
+- Add a zoom-in-down animation for the service cards.
+- ⁠make the service section more attractive with some box and animation and photo
+5. Mid Section:
+- Include a mid section with statistics or counters displayed in a grid layout.
+- Use a background image with an overlay and contrasting text colors.
+- Add a zoom-in-down animation for the statistics or counters.
+6. Team Section:
+- Create a Team section with a heading, a line separator, and a brief description.
+- Display team member images in a responsive grid layout.
+- Apply an image zoom effect on hover for the team member images.
+7. Contact Section:
+- Include a Contact section with a heading, a line separator, and a brief description.
+- Add a background image with an overlay and contrasting text colors.
+- Include a contact form with input fields and a submit button.
+- Add fade-down animations for the section heading and contact form.
+8. Blog Section:
+- Create a Blog section with a heading, a line separator, and a brief description.
+- Display blog post cards with images, titles, descriptions, and read more links in a responsive grid layout.
+- Add a zoom-in-down animation for the blog post cards.
+9. Footer:
+- Include a footer section with a logo, brief description, social icons, and additional links or information.
+- Add a fade-up animation for the footer content.
+10. Animations:
+- Use the AOS (Animate On Scroll) library to add smooth animations when the user scrolls to different sections.
+11. Responsiveness:
+- Ensure that the website is fully responsive and looks great on different screen sizes and devices using Bootstrap's grid system and responsive utilities.
+12. Fonts and Icons:
+- Use Google Fonts or a font hosting service to include custom fonts for headings and body text.
+- Include an icon font library like Remix Icon or Font Awesome for icons used throughout the website.
+
+Ensure the following:
+give me complete code without saying repeat this lines
+Utilize a clean and visually appealing color palette.
+use icons effectively
+Make the webpage responsive.
+create css if required
